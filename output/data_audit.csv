@@ -1,0 +1,17 @@
+column,dtype,semantic_type,unique_values,missing_count,missing_pct
+id,int64,Nominal identifier (exclude),48895,0,0.0
+name,str,Free text (exclude),47905,16,0.03272318232948154
+host_id,int64,Nominal identifier (exclude),37457,0,0.0
+host_name,str,Free text / nominal identifier (exclude),11452,21,0.04294917680744453
+neighbourhood_group,str,Categorical - nominal,5,0,0.0
+neighbourhood,str,"Categorical - nominal, high cardinality (exclude)",221,0,0.0
+latitude,float64,Numerical - continuous,19048,0,0.0
+longitude,float64,Numerical - continuous,14718,0,0.0
+room_type,str,Categorical - nominal,3,0,0.0
+price,int64,"Numerical - continuous, target (USD/night)",674,0,0.0
+minimum_nights,int64,Numerical - discrete count,109,0,0.0
+number_of_reviews,int64,Numerical - discrete count,394,0,0.0
+last_review,str,Temporal date string (exclude),1764,10052,20.55833929849678
+reviews_per_month,float64,Numerical - continuous rate,937,10052,20.55833929849678
+calculated_host_listings_count,int64,Numerical - discrete count,47,0,0.0
+availability_365,int64,Numerical - discrete count (days),366,0,0.0

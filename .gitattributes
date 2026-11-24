@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+# Preserve the exact downloaded bytes: the notebook verifies this file's SHA-256.
+data/AB_NYC_2019.csv -text
+
+*.png binary
+*.pdf binary
+*.joblib binary
+*.zip binary

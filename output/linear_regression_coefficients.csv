@@ -1,0 +1,14 @@
+feature,coefficient_usd_per_unit
+latitude,-68.20625860511629
+longitude,-291.19205778421775
+minimum_nights,-1.079790809203428
+number_of_reviews,-0.06863136831941359
+reviews_per_month,-1.0903064889109513
+calculated_host_listings_count,0.13444018191934226
+availability_365,0.07604239732847481
+neighbourhood_group_Brooklyn,-6.3221521893620345
+neighbourhood_group_Manhattan,25.314584915356445
+neighbourhood_group_Queens,6.418292153345484
+neighbourhood_group_Staten Island,-81.52343891607502
+room_type_Private room,-80.10625928157835
+room_type_Shared room,-106.23238527211288
